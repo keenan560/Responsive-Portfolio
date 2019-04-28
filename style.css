@@ -1,0 +1,15 @@
+
+@media screen and (max-width:959px) {
+    header {
+        width: 100%;
+    }
+    #logo {
+        width: 70%;
+    }
+    nav{
+        width:70%;
+    }
+    img {
+        width: 70%;
+    }
+}
